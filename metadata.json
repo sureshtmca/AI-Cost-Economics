@@ -1,0 +1,6 @@
+{
+  "name": "AI Cost Economics Forecasting Platform",
+  "description": "Enterprise cost forecasting across BUILD, RUN, LICENSE, and ASSURE pools for AI proposals, RFPs, and pilots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
